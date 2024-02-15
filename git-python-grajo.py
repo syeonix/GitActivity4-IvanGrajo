@@ -1,3 +1,6 @@
 print("Robert Ivan Grajo")
 print("Tabi Boac Marinduque")
 print("January 3 2003")
+print("College of Information and Computing Sciences")
+print("Bachelor of Information Technology")
+print("2B")
